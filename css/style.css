@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+    background-attachment: fixed;
+    /*  bacground: red fixed  */
+}
+
+h1{
+    color:white;
+}
